@@ -1,0 +1,23 @@
+{
+  "name": "eslint-tutorial",
+  "version": "1.0.0",
+  "description": "Quick ESLint tutorial from https://www.sitepoint.com/up-and-running-with-eslint-the-pluggable-javascript-linter/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamSkuse/ESLint-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamSkuse/ESLint-tutorial/issues"
+  },
+  "homepage": "https://github.com/AdamSkuse/ESLint-tutorial#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
+}
